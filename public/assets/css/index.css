@@ -1,0 +1,40 @@
+.carousel-item {
+  max-height: 500px;
+}
+
+.card-img-top {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  overflow: hidden;
+  max-height: 250px;
+}
+
+.cat-link {
+  margin-right: 1.75rem;
+  font-size: 1.2rem;
+}
+
+.product-thumbnails {
+  overflow-x: scroll;
+}
+
+.product-img-main {
+  aspect-ratio: 1 / 1;
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.card-img-top img {
+  width: 100%;
+}
+
+.img-thumbnail {
+  width: 30%;
+  flex-shrink: 0;
+}
