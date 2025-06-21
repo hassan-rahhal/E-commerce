@@ -48,7 +48,6 @@
                 @if(auth()->user()->is_admin)
                     <a href="/admin" class="btn btn-secondary me-2"> Admin Panel </a>
                 @endif
-                <a href="/cart" class="btn btn-secondary me-2"> Cart </a>
                 <a href="{{route('logout')}}" class="btn btn-secondary me-2"> Logout </a>
             @endauth
             <a href="/cart" class="btn btn-secondary me-2">Cart</a>
