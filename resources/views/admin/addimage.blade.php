@@ -16,7 +16,7 @@
       integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
       crossorigin="anonymous"
     ></script>
-    <title>Document</title>
+    <title>Admin Panel</title>
 </head>
 <body>
     <h1>Add image to {{$product->name}}</h1>
