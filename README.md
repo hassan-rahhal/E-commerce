@@ -1,5 +1,9 @@
 🛍️ Laravel E-Commerce Application
 
+To access Admin features,use admin user of:
+Email: admin@gmail.com
+Password: admin12345
+
 🚀 Overview:
 Welcome to this Laravel-based e-commerce platform — a complete solution for online product sales!
 This app offers smooth user experience with product browsing, cart management, secure ordering, and a powerful admin panel for managing your store’s products, categories, and homepage content.
