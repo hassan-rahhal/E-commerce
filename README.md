@@ -11,29 +11,31 @@ This app offers smooth user experience with product browsing, cart management, s
 
 ✨ Features:
 
-👥 User Features
-🔐 User Registration & Login — Secure and easy authentication system.
+-👥 User Features:
 
-🛒 Product Catalog — Browse, search, and filter products by categories.
+        🔐 User Registration & Login — Secure and easy authentication system.
 
-🔍 Product Details — Detailed product pages with recommendations.
+        🛒 Product Catalog — Browse, search, and filter products by categories.
 
-🛍️ Shopping Cart — Add, update quantities, and remove items dynamically.
+        🔍 Product Details — Detailed product pages with recommendations.
 
-💳 Order Placement — Authenticated users can place orders seamlessly.
+        🛍️ Shopping Cart — Add, update quantities, and remove items dynamically.
 
-🛠️ Admin Features
-🔑 Admin Authentication — Protected admin dashboard access.
+        💳 Order Placement — Authenticated users can place orders seamlessly.
 
-📦 Product Management — Add, edit, delete products, upload images.
+-🛠️ Admin Features:
 
-🗂️ Category Management — Create and organize product categories.
+        🔑 Admin Authentication — Protected admin dashboard access.
 
-🎠 Carousel Management — Manage homepage carousel with images and descriptions.
+        📦 Product Management — Add, edit, delete products, upload images.
 
-🏷️ Product Categorization — Assign categories to products easily.
+        🗂️ Category Management — Create and organize product categories.
 
-🚫 Access Control — Middleware to restrict admin features only to authorized users.
+        🎠 Carousel Management — Manage homepage carousel with images and descriptions.
+
+        🏷️ Product Categorization — Assign categories to products easily.
+
+        🚫 Access Control — Middleware to restrict admin features only to authorized users.
 ---------------------------------------------------------------
 
 🛠️ Technology Stack
