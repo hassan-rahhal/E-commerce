@@ -11,10 +11,6 @@
         <p class="card-text font-weight-bold">${{$product->price}}</p>
         <div class="d-flex justify-content-between">
           <a class="btn btn-primary" href="/product/{{$product->id}}">View</a>
-          <button
-            class="btn btn-primary">
-            Add to Cart
-          </button>
         </div>
       </div>
     </div>
