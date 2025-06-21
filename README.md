@@ -35,6 +35,8 @@ This app offers smooth user experience with product browsing, cart management, s
 🛠️ Technology Stack
 Backend: Laravel Framework (PHP)
 
+Frontend: Blade Templating Engine, Bootstrap
+
 Database: MySQL (or other supported databases)
 
 Authentication: Laravel’s built-in system with custom admin middleware
